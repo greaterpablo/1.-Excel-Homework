@@ -7,4 +7,4 @@ KickStarter Data Assesment Report
 a.	  Most of the kick starters campaigns comes from United States of America, Great Britain and Canada. 
       In which categories like theater, music, tech and film & video are domain.
       
-     ![Image of Donations](https://github.com/greaterpablo/1.-Excel-Homework/blob/main/Images/AverageDonationbyCategory.png)
+     ![Image of Donations](https://github.com/greaterpablo/1.-Excel-Homework/blob/main/Images/AverageDonationbyCategory.png?raw=true)
