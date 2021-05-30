@@ -36,5 +36,5 @@ I have included this:
 Month End Conversion KickStarter | Average Donation by Category
 ------------ | -------------
 <img src="https://i.ibb.co/27k3qH4/Other-Graph3.png" width="400" height="400"> | <img src="https://i.ibb.co/TmfqHfP/Other-Graph1.png" width="400" height="400">
-Successful kickstarters starts in spring break | Successful Categories are related with entretainment
+Successful kickstarters starts in spring break | Successful Categories are related with entertainment
 
