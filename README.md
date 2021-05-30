@@ -34,10 +34,10 @@ Also we need more info about content of the project for example is a video is up
 I have included this:
 
 
-![Average-Donationby-Category](https://i.ibb.co/ZzsZVnr/Average-Donationby-Category.png)
+<img src="https://i.ibb.co/ZzsZVnr/Average-Donationby-Category.png" width="300" height="300">
 
-![Other-Graph1](https://i.ibb.co/TmfqHfP/Other-Graph1.png)
+<img src="https://i.ibb.co/TmfqHfP/Other-Graph1.png" width="300" height="300">
 
-![Other-Graph2](https://i.ibb.co/Km1PLCC/Other-Graph2.png)
+<img src="https://i.ibb.co/Km1PLCC/Other-Graph2.png" width="300" height="300">
 
-![Other-Graph3](https://i.ibb.co/27k3qH4/Other-Graph3.png)
+<img src="https://i.ibb.co/27k3qH4/Other-Graph3.png" width="300" height="300">
